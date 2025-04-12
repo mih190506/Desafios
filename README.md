@@ -1,4 +1,4 @@
-]repositório para os desafios do grupo de estudos das CodeQueens :computer: :princess: 
+Repositório para os desafios do grupo de estudos das CodeQueens :computer: :princess: 
 
 Desafio 1:
 Fiz uma calculadora simples em python para um desafio que estou participando
