@@ -13,7 +13,8 @@ if media >= 7:
 else:
    status = print("Reprovado 😢")
 
-print(nome + " Aqui estão seus Dados: ")
-print("Suas Notas: " + nota1, nota2, nota3)
-print("Sua média: " + media)
-print("Você foi... " + status)
+print("\n📋", nome, "aqui estão seus dados:")
+print("Idade:", idade)
+print("Suas Notas:", nota1, ",", nota2, ",", nota3)
+print(f"Sua média: {media:.2f}")
+print("Você foi...", status)
