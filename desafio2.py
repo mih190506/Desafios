@@ -9,9 +9,9 @@ nota3 = float(input("Agora a terceira nota: "))
 media = (nota1 + nota2 + nota3)/3
 
 if media >= 7:
-    status = print("Aprovado 🎉")
+    status = "Aprovado 🎉"
 else:
-   status = print("Reprovado 😢")
+   status = "Reprovado 😢"
 
 print("\n📋", nome, "aqui estão seus dados:")
 print("Idade:", idade)
